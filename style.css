@@ -76,13 +76,17 @@ button:hover{
         margin: 5px;
     }
 
+     #container {
+        width: 300;
+    }
+
     h1 {
         line-height: 30px
     }
 
     header {
         padding: 1px;
-        text-align: left;
+        width:300;
         margin: 0px;
     }
 }  
